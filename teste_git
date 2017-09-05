@@ -2,8 +2,16 @@
 
 -- TESTE 2 --
 
+-- TESTE 2.5 -- RENAN
+
 >> TESTE 3 <<
+<<<<<<< HEAD
 
 ~~ TESTE 4 Leonardo ~~
 
 ~~ TESTE 5 Leonardo ~~
+||||||| merged common ancestors
+=======
+
+~~ TESTE 4 Leonardo ~~
+>>>>>>> upstream/master
